@@ -1,0 +1,9 @@
+{
+    "key" : "system",
+    "driver": "pgsql",
+    "host": "89.163.150.167",
+    "port": "5432",
+    "database": "ir_system",
+    "username": "admin",
+    "password": "admin123"
+}
